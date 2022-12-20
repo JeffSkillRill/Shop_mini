@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="forgot_password"><u>Forgot password</u></string>
+    <string name="protect_your_every_step">Protect Your </string>
+    <string name="protect_your_every_step2">Every Step</string>
+    <string name="my_text"> <strike>100$</strike>.</string>
+</resources>
